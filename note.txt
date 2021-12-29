@@ -1,0 +1,5 @@
+steps to create the php api with ajax:
+1.First create the UI DESIGN by uaing the Frontend Technologies.
+2.Then add jQuery to your website inorder to help you Pop the Modal.
+3.Create an (api.php) file; Then create the connection, json Header, all the crud functions (readAll, regsister, Update, Delete).
+4.Then, go to your .js file and: 
